@@ -2,6 +2,8 @@
 ### Authors: Janan Jahed (s5107318), Andrei Medesan (s5130727), Andjela Matic (s5248736), Stefan Stoian (s4775309)
 ### Group 12
 
+(Due to GitHub limitations of storing large data, the datasets have been removed. However when the code is ran for the first time, the data will be downloaded automatically)
+
 In this project, we design machine learning models that monitor air pollution in the Netherlands, specifically for Utrecht. For this, we developed a pipeline for processing and predicting the nitrogen dioxide (NO2) and ozone (O3) concentrations. The raw datasets are stored in the `raw/` folder of the `data/` directory of the repository. In this directory, the user can also view the processed datasets, and for safety reasons, we implemented copies of the data in the `backups` folder.
 
 In the current state of our pollution predictor project, we have implemented the following files, alongside their functionalities in the designated folders as follows:
